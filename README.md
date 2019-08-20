@@ -27,3 +27,12 @@ electronico; unas teclas servian para tocar las notas y otras, en cambio, para s
 sonidos entre una amplia gama.
 
 Asi fue como Paco El Pulpogato aprendio a programar.
+
+## Teclas alucinógenas.
+
+Una noche, Paco El Pulpogato habia pasado muchas horas jugando sin descanso con su Amstrad y
+descubrio que cada vez que tocaba la tecla `MAYS` la maquina le preguntaba en voz alta: "Oye, Paco,
+?Sabes que hora es?", y cuando le daba la tecla `CONTROL`, la maquina le gastaba bromas,
+exclamando: "!Paco El Pulpogato es mas gato que pulpo, por lo que le gusta pasar las noches sin dormir!".
+Vio la cara de un gato muy cansado y entendio que su Amstrad tenia razon: el jugador necesitaba descansar. "!Que
+maquina tan maravillosa tengo!" - penso Paco El Pulpogato en su cama para conciliar el sueño.
